@@ -4,7 +4,7 @@
 #
 Name     : R-beeswarm
 Version  : 0.4.0
-Release  : 33
+Release  : 34
 URL      : https://cran.r-project.org/src/contrib/beeswarm_0.4.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/beeswarm_0.4.0.tar.gz
 Summary  : The Bee Swarm Plot, an Alternative to Stripchart
@@ -33,10 +33,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1640896264
+export SOURCE_DATE_EPOCH=1640978129
 
 %install
-export SOURCE_DATE_EPOCH=1640896264
+export SOURCE_DATE_EPOCH=1640978129
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
