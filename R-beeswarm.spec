@@ -4,7 +4,7 @@
 #
 Name     : R-beeswarm
 Version  : 0.4.0
-Release  : 32
+Release  : 33
 URL      : https://cran.r-project.org/src/contrib/beeswarm_0.4.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/beeswarm_0.4.0.tar.gz
 Summary  : The Bee Swarm Plot, an Alternative to Stripchart
